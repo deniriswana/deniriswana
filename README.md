@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @deniriswana
 - 👀 I’m interested in #python #data
-- 🌱 I’m currently learning #AI
 - 📫 Visit: https://riswan.net/
 
 <!---
